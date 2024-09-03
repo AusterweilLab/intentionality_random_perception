@@ -34,7 +34,7 @@ Contributing
 Contributions to the experiment are welcome. Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
-Victoria W - Initial work - vicccwen
+Victoria Wen - Initial work - vicccwen
 
 ## Acknowledgments
 jsPsych library for providing an excellent framework for web-based psychological experiments.
